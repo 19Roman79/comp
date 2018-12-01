@@ -1,0 +1,7 @@
+{
+    "name": "roman/comp",
+    "description": "web",
+    "require": {
+        "wixel/gump": "^1.5"
+    }
+}
